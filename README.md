@@ -1,4 +1,20 @@
-## Hi there 👋
+👋 Hello! I’m Anish T, an engineer with a strong appreciation for traditional craftsmanship and modern technology working together.
+
+🔧 I work with:
+- Siemens NX (CAD modeling & mechanical design)
+- Python (backend development & automation)
+- Networking setups (VLANs, managed switches, and structured configurations)
+
+🕰️ Current Projects:
+- A fully functional antique-style analog wall clock (CAD + fabrication)
+- Personal lab setups for WSL, SSH, and Linux-based automation
+
+💡 Interests:
+- Engineering the old-school way with new-school tools
+- Mechanical design with visual authenticity
+- Clean backend logic that just works
+
+📍 I believe in building things that last, whether it's code or steel.
 
 
 
