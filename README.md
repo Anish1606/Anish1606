@@ -5,9 +5,9 @@
 - Python (backend development & automation)
 - Networking setups (VLANs, managed switches, and structured configurations)
 
-🕰️ Current Projects:
-- A fully functional antique-style analog wall clock (CAD + fabrication)
-- Personal lab setups for WSL, SSH, and Linux-based automation
+Social Accounts:
+- [LinkedIn](https://www.linkedin.com/in/anish-t)
+- [Docker](https://hub.docker.com/u/anishth)
 
 💡 Interests:
 - Engineering the old-school way with new-school tools
