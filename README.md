@@ -8,6 +8,7 @@
 Social Accounts:
 - [LinkedIn](https://www.linkedin.com/in/anish-t)
 - [Docker](https://hub.docker.com/u/anishth)
+- [LeetCode](https://leetcode.com/u/anishth06/)
 
 💡 Interests:
 - Engineering the old-school way with new-school tools
